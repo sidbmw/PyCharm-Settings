@@ -1,0 +1,1 @@
+checkio.pycharm.plugin:skip_disable

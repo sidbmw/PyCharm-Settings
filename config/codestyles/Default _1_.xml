@@ -1,0 +1,11 @@
+<code_scheme name="Default (1)">
+  <Python>
+    <option name="OPTIMIZE_IMPORTS_SORT_IMPORTS" value="false" />
+    <option name="OPTIMIZE_IMPORTS_SORT_BY_TYPE_FIRST" value="false" />
+  </Python>
+  <codeStyleSettings language="Python">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>

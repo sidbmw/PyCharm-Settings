@@ -1,0 +1,77 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/Documents/ICS4U" />
+        <option value="$USER_HOME$/PycharmProjects/ICS4U" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/Documents/ICS4U" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/Documents/ICS4U" />
+    <option name="pid" value="" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Documents/ICS4U">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-182.4505.26" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1541804158356" />
+              <option name="buildTimestamp" value="1537358511730" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PycharmProjects/ICS4U">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-182.4505.26" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1540477715540" />
+              <option name="buildTimestamp" value="1537358516609" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PycharmProjects/Introduction to Python">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-182.4323.49" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1537651905300" />
+              <option name="buildTimestamp" value="1536049489069" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PycharmProjects/Introduction to Python1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-182.4505.26" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1538226816234" />
+              <option name="buildTimestamp" value="1537358497187" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PycharmProjects/untitled">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-182.4505.26" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1538226827298" />
+              <option name="buildTimestamp" value="1537358497187" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/PycharmProjects" />
+  </component>
+</application>

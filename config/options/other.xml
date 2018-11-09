@@ -1,0 +1,30 @@
+<application>
+  <component name="EduSettings">
+    <option name="lastTimeChecked" value="1541269345871" />
+    <option name="user">
+      <StepicUser>
+        <option name="accessToken" value="2P6EmVKNtoI0597fKpA2bT7uh8neGh" />
+        <option name="id" value="60049912" />
+        <option name="refreshToken" value="dL3IccUnUQhs9lQmjV0zTsflQEwDY5" />
+      </StepicUser>
+    </option>
+    <option name="LAST_TIME_CHECKED" value="1541269345871" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="C:\Users\siddh\AppData\Local\Programs\Python\Python37-32\python.exe" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="C:\Users\siddh\AppData\Local\Programs\Python\Python37-32\python.exe" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="C:\Users\siddh\AppData\Local\Programs\Python\Python37-32\python.exe" value="false" />
+      </map>
+    </option>
+  </component>
+</application>

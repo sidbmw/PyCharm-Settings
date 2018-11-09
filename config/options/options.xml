@@ -1,0 +1,36 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6671388" />
+    <property name="DBE.Default.Dialect" value="" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="Edu.CourseCreator.Enabled" value="false" />
+    <property name="Educational.conflictingPluginsDisabled" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="LAST_INJECTED_LANGUAGE" value="Oracle" />
+    <property name="MTBorderPopup" value="true" />
+    <property name="MTTabsHeight" value="42" />
+    <property name="OpenOrAttachDialog.OpenMode" value="replace" />
+    <property name="PLUGIN_FILTER" value="city lights&#10;com.jetbrains.edu&#10;interactivelearning&#10;interacti&#10;edu" />
+    <property name="PyCharm.InitialConfiguration" value="true" />
+    <property name="PyCharm.InitialConfiguration.V2" value="true" />
+    <property name="PyCharm.InitialConfiguration.V3" value="true" />
+    <property name="PyCharm.InitialConfiguration.V4" value="true" />
+    <property name="PyCharm.InitialConfiguration.V5" value="true" />
+    <property name="PyCharm.InitialConfiguration.V6" value="true" />
+    <property name="PyCharm.InitialConfiguration.V7" value="true" />
+    <property name="PyCharm.initialConfigurationShown" value="true" />
+    <property name="SettingsSearchHistory" value="sql dia&#10;code compa&#10;connect to database&#10;python" />
+    <property name="StudyPyCharm.InitialConfiguration40" value="true" />
+    <property name="change.laf.on.editor.theme.change" value="true" />
+    <property name="com.chrisrm.idea.MaterialThemeUI.theme" value="DEEPOCEAN" />
+    <property name="com.jetbrains.edu.LAST_UPDATE" value="1538226714680" />
+    <property name="evlsprt3.182" value="12" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Documents/ICS4U/Python/Login_Screen&#10;C:/Users/siddh/Documents/ICS4U/Python&#10;C:/Users/siddh/AppData/Local/Programs/Python/Python37-32&#10;C:/Users/siddh/Documents/ICS4U&#10;C:/Users/siddh/Downloads/pycharm_settings.jar&#10;C:/Users/siddh/PycharmProjects/ICS4U&#10;C:/Users/siddh/Downloads/intellij-colors-solarized-master/intellij-colors-solarized-master/Solarized Light.icls&#10;C:/Users/siddh/Downloads/intellij-colors-solarized-master/intellij-colors-solarized-master/Solarized Dark.icls&#10;C:/Users/siddh/Downloads/intellij-colors-solarized-master/intellij-colors-solarized-master/settings.jar&#10;C:/Users/siddh/Downloads/intellij-colors-solarized-master&#10;C:/Users/siddh/Downloads/cmder/vendor/git-for-windows/bin/git.exe&#10;C:/Program Files/JetBrains/IntelliJ IDEA 2018.2.4&#10;C:/Users/siddh/.IntelliJIdea2018.2" />
+    <property name="file.gist.reindex.count" value="10096" />
+    <property name="fileTypeChangedCounter" value="26" />
+    <property name="lastTip" value="41" />
+    <property name="mt.showStatisticsAgreement" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.0.1" />
+  </component>
+</application>

@@ -1,0 +1,3 @@
+checkio.pycharm.plugin
+com.jetbrains.edu
+com.chrisrm.idea.MaterialThemeUI

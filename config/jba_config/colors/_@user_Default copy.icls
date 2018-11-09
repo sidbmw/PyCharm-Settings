@@ -1,0 +1,21 @@
+<scheme name="_@user_Default copy" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2017-10-05T09:54:43</property>
+    <property name="ide">Python</property>
+    <property name="ideVersion">2016.3.2.0.0</property>
+    <property name="modified">2018-09-29T12:11:02</property>
+    <property name="originalScheme">Default</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="Monospaced" />
+  <attributes>
+    <option name="CONSOLE_USER_INPUT">
+      <value>
+        <option name="FOREGROUND" value="7f00" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

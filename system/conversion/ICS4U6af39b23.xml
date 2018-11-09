@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="DockerRunConfigurationConverterProvider" />
+    <converter id="PythonTestConverterProvider" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\siddh\PycharmProjects\ICS4U\.idea\misc.xml" timestamp="1538227202568" />
+    <file path="C:\Users\siddh\PycharmProjects\ICS4U\.idea\modules.xml" timestamp="1538226904062" />
+    <file path="C:\Users\siddh\PycharmProjects\ICS4U\.idea\untitled.iml" timestamp="1538227202476" />
+    <file path="C:\Users\siddh\PycharmProjects\ICS4U\.idea\vcs.xml" timestamp="1538226904066" />
+    <file path="C:\Users\siddh\PycharmProjects\ICS4U\.idea\workspace.xml" timestamp="1539791216882" />
+  </project-files>
+</conversion>
+

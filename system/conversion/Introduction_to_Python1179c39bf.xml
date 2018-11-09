@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="DockerRunConfigurationConverterProvider" />
+    <converter id="PythonTestConverterProvider" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\siddh\PycharmProjects\Introduction to Python1\.idea\Introduction to Python1.iml" timestamp="1537655631885" />
+    <file path="C:\Users\siddh\PycharmProjects\Introduction to Python1\.idea\misc.xml" timestamp="1537655631914" />
+    <file path="C:\Users\siddh\PycharmProjects\Introduction to Python1\.idea\modules.xml" timestamp="1537655510302" />
+    <file path="C:\Users\siddh\PycharmProjects\Introduction to Python1\.idea\study_project.xml" timestamp="1537888141341" />
+    <file path="C:\Users\siddh\PycharmProjects\Introduction to Python1\.idea\workspace.xml" timestamp="1537969985015" />
+  </project-files>
+</conversion>
+

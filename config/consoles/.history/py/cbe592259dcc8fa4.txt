@@ -1,0 +1,7 @@
+pip install --upgrade PySimpleGUI
+
+-. . -..- - / . -. - .-. -.--
+pip3 install --upgrade PySimpleGUI
+
+-. . -..- - / . -. - .-. -.--
+where python

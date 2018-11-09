@@ -1,0 +1,38 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.1920.1080" x="489" y="17" />
+    <location key="#Plugins.0.0.1920.1080" x="555" y="98" />
+    <location key="GitCloneDialog.0.0.1920.1080" x="693" y="359" />
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="962" y="440" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080" x="655" y="347" />
+    <location key="ProcessPopupWindow.0.0.1920.1080" x="1068" y="843" />
+    <location key="SettingsEditor.0.0.1920.1080" x="105" y="173" />
+    <location key="CommitChangelistDialog2.0.0.1920.1080" x="614" y="121" />
+    <location key="Vcs.Push.Dialog.0.0.1920.1080" x="636" y="252" />
+    <location key="#Notifications.0.0.1920.1080" x="709" y="254" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1920.1080" x="727" y="419" />
+    <location key="#Browse_Repositories.0.0.1920.1080" x="199" y="183" />
+    <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1920.1080" x="714" y="393" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" x="414" y="178" />
+    <location key="git4idea.merge.GitPullDialog.0.0.1920.1080" x="697" y="315" />
+    <location key="com.intellij.database.view.ui.DbObjectDialog.0.0.1920.1080" x="766" y="316" />
+    <location key="ExecutionTargetDialog.0.0.1920.1080" x="758" y="145" />
+    <location key="#Inspections.0.0.1920.1080" x="592" y="201" />
+    <location key="StructurePopup.0.0.1920.1080" x="663" y="202" />
+    <size key="GitCloneDialog.0.0.1920.1080" width="564" height="243" />
+    <size key="ProcessPopupWindow.0.0.1920.1080" width="400" height="180" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1876" height="277" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1876" height="277" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1876" height="277" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1876" height="277" />
+    <size key="FileChooserDialogImpl.0.0.1920.1080" width="822" height="938" />
+    <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" width="1092" height="752" />
+    <size key="#Browse_Repositories.0.0.1920.1080" width="1362" height="806" />
+    <size key="SettingsEditor.0.0.1920.1080" width="1747" height="776" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1876" height="342" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="1876" height="342" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="1876" height="342" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="1876" height="342" />
+    <size key="StructurePopup.0.0.1920.1080" width="575" height="644" />
+  </component>
+</application>

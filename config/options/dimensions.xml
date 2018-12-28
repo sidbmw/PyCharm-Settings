@@ -22,10 +22,10 @@
     <location key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog.0.0.1920.1080" x="640" y="259" />
     <size key="GitCloneDialog.0.0.1920.1080" width="564" height="243" />
     <size key="ProcessPopupWindow.0.0.1920.1080" width="400" height="180" />
-    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1876" height="277" />
-    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1876" height="277" />
-    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1876" height="277" />
-    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1876" height="277" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1876" height="189" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1876" height="189" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1876" height="189" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1876" height="189" />
     <size key="FileChooserDialogImpl.0.0.1920.1080" width="822" height="938" />
     <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" width="1092" height="752" />
     <size key="#Browse_Repositories.0.0.1920.1080" width="1362" height="806" />

@@ -4633,3 +4633,44 @@ where owner# = ?
 -- 2018-11-08 21:38:39 [ICS4U] [@localhost] [introspection] [session id: 784812411] [statement id: 1693012400] results received
 -- 2018-11-08 21:38:39 [ICS4U] [@localhost] [introspection] [session id: 784812411] [statement id: 1693012400] finished - execution time: 4 ms, fetching time: 3 ms, total result sets count: 1
 -- 2018-11-08 21:38:39 [ICS4U] [@localhost] [introspection] [session id: 784812411] disconnected
+-- 2018-12-27 21:19:33 [ICS4U] [@localhost] [session id: 1096688575] connected
+-- [ --------------------------------------------------
+-- 2018-12-27 21:19:33 [ICS4U] [@localhost] [data editor: EOM_CLASS [@localhost]] [session id: 1096688575] [statement id: 885463367] 
+alter session set current_schema = EOM
+-- ] --------------------------------------------------
+-- 2018-12-27 21:19:33 [ICS4U] [@localhost] [data editor: EOM_CLASS [@localhost]] [session id: 1096688575] [statement id: 885463367] finished - execution time: 13 ms
+-- [ --------------------------------------------------
+-- 2018-12-27 21:19:33 [ICS4U] [@localhost] [data editor: EOM_CLASS [@localhost]] [session id: 1096688575] [statement id: 885463368] 
+select sys_context('userenv', 'current_schema') x from dual
+-- ] --------------------------------------------------
+-- 2018-12-27 21:19:34 [ICS4U] [@localhost] [data editor: EOM_CLASS [@localhost]] [session id: 1096688575] [statement id: 885463368] results received
+-- 2018-12-27 21:19:34 [ICS4U] [@localhost] [data editor: EOM_CLASS [@localhost]] [session id: 1096688575] [statement id: 885463368] finished - execution time: 242 ms, fetching time: 51 ms, total result sets count: 1
+-- [ --------------------------------------------------
+-- 2018-12-27 21:19:34 [ICS4U] [@localhost] [data editor: EOM_CLASS [@localhost]] [session id: 1096688575] [statement id: 885463369] 
+SELECT * FROM (
+    SELECT t.*, ROWID FROM EOM.EOM_CLASS t
+) WHERE ROWNUM <= 501
+-- ] --------------------------------------------------
+-- 2018-12-27 21:19:34 [ICS4U] [@localhost] [data editor: EOM_CLASS [@localhost]] [session id: 1096688575] [statement id: 885463369] results received
+-- 2018-12-27 21:19:34 [ICS4U] [@localhost] [data editor: EOM_CLASS [@localhost]] [session id: 1096688575] [statement id: 885463369] finished - execution time: 11 ms, fetching time: 326 ms, total result sets count: 1
+-- 2018-12-27 21:19:36 [ICS4U] [@localhost] [session id: 1096688576] connected
+-- [ --------------------------------------------------
+-- 2018-12-27 21:19:36 [ICS4U] [@localhost] [data editor: EOM_STUDENTS [@localhost]] [session id: 1096688576] [statement id: 885463370] 
+alter session set current_schema = EOM
+-- ] --------------------------------------------------
+-- 2018-12-27 21:19:36 [ICS4U] [@localhost] [data editor: EOM_STUDENTS [@localhost]] [session id: 1096688576] [statement id: 885463370] finished - execution time: 3 ms
+-- [ --------------------------------------------------
+-- 2018-12-27 21:19:36 [ICS4U] [@localhost] [data editor: EOM_STUDENTS [@localhost]] [session id: 1096688576] [statement id: 885463371] 
+select sys_context('userenv', 'current_schema') x from dual
+-- ] --------------------------------------------------
+-- 2018-12-27 21:19:36 [ICS4U] [@localhost] [data editor: EOM_STUDENTS [@localhost]] [session id: 1096688576] [statement id: 885463371] results received
+-- 2018-12-27 21:19:36 [ICS4U] [@localhost] [data editor: EOM_STUDENTS [@localhost]] [session id: 1096688576] [statement id: 885463371] finished - execution time: 6 ms, fetching time: 20 ms, total result sets count: 1
+-- [ --------------------------------------------------
+-- 2018-12-27 21:19:36 [ICS4U] [@localhost] [data editor: EOM_STUDENTS [@localhost]] [session id: 1096688576] [statement id: 885463372] 
+SELECT * FROM (
+    SELECT t.*, ROWID FROM EOM.EOM_STUDENTS t
+) WHERE ROWNUM <= 501
+-- ] --------------------------------------------------
+-- 2018-12-27 21:19:36 [ICS4U] [@localhost] [data editor: EOM_STUDENTS [@localhost]] [session id: 1096688576] [statement id: 885463372] results received
+-- 2018-12-27 21:19:37 [ICS4U] [@localhost] [data editor: EOM_STUDENTS [@localhost]] [session id: 1096688576] [statement id: 885463372] finished - execution time: 4 ms, fetching time: 274 ms, total result sets count: 1
+-- 2018-12-27 21:21:54 [ICS4U] [@localhost] [session id: 1096688575] disconnected

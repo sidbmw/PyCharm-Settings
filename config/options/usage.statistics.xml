@@ -100,16 +100,21 @@
   <component name="FUSApplicationUsageTrigger">
     <session id="655482535">
       <usages-collector id="statistics.lifecycle.app">
-        <counts>
-          <entry key="ide.close" value="43" />
-          <entry key="ide.close.restart" value="7" />
-          <entry key="ide.error" value="1" />
-          <entry key="ide.freeze.15" value="2" />
-          <entry key="ide.freeze.7" value="6" />
-          <entry key="ide.freeze.8" value="3" />
-          <entry key="ide.freeze.9" value="4" />
-          <entry key="ide.start" value="45" />
-        </counts>
+        <usage id="ide.close.restart" value="8" />
+        <usage id="ide.error" value="1" />
+        <usage id="ide.close" value="44" />
+        <usage id="ide.start" value="46" />
+        <usage id="ide.freeze.15" value="2" />
+        <usage id="ide.freeze.7" value="6" />
+        <usage id="ide.freeze.8" value="3" />
+        <usage id="ide.freeze.9" value="4" />
+        <usage id="ide.error" value="1">
+          <context>
+            <entry key="data_1" value="OOM:false" />
+            <entry key="data_2" value="mappingFailed:false" />
+            <entry key="data_3" value="pluginId:com.intellij.CloudConfig" />
+          </context>
+        </usage>
       </usages-collector>
       <usages-collector id="statistics.ide.self.update">
         <counts>
@@ -120,9 +125,7 @@
         </counts>
       </usages-collector>
       <usages-collector id="statistics.ui.tips">
-        <counts>
-          <entry key="shown.automatically" value="41" />
-        </counts>
+        <usage id="shown.automatically" value="42" />
       </usages-collector>
     </session>
   </component>

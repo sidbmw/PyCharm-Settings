@@ -2,6 +2,15 @@
   <component name="FileBasedIndex">
     <option name="registeredIndices">
       <list>
+        <option value="angular2.metadata.node.index" />
+        <option value="angular2.metadata.directive.index" />
+        <option value="angular2.metadata.entityClassName.index" />
+        <option value="angular2.metadata.pipe.index" />
+        <option value="angular2.source.directive.index" />
+        <option value="angular2.source.pipe.index" />
+        <option value="angular2.templateUrl.index" />
+        <option value="angularjs.templateUrl.index" />
+        <option value="ts.embedded.content.index" />
         <option value="puppet.node" />
         <option value="puppet.function" />
         <option value="puppet.resource.by.type" />

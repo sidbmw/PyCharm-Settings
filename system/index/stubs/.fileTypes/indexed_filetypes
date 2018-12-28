@@ -1,27 +1,29 @@
-1537321338872
-CSS￿stub:com.intellij.psi.css.CssFileElementType,29￿1537321338871
-Ini￿stub:com.intellij.psi.tree.IStubFileElementType,0￿1537321338870
-Python￿stub:com.jetbrains.python.psi.PyFileElementType,69￿1537321338869
-Stylus￿stub:org.jetbrains.plugins.stylus.psi.StylusFileElementType,29￿1537321338868
-ECMAScript 6￿stub:com.intellij.lang.javascript.types.JSFileElementType,2024641187￿1537321338867
-JavaScript￿stub:com.intellij.lang.javascript.types.JSFileElementType,2024641187￿1537321338866
-SCSS￿stub:org.jetbrains.plugins.scss.psi.SassScssFileElementType,29￿1537321338865
-HTML￿stub:com.intellij.psi.tree.IStubFileElementType,0￿1537321338864
-Jinja2￿stub:com.intellij.psi.tree.IStubFileElementType,304847099￿1537321338863
-Puppet￿stub:com.intellij.psi.tree.IStubFileElementType,0￿1537321338862
-Sass￿stub:org.jetbrains.plugins.scss.psi.SassScssFileElementType,29￿1537321338861
-Cython￿stub:com.jetbrains.cython.psi.elementTypes.CythonFileElementType,69￿1537321338860
-Properties￿stub:com.intellij.lang.properties.parsing.PropertiesElementTypes$1,0￿1537321338859
-XML￿binary stub builder:com.intellij.util.xml.stubs.builder.DomStubBuilder,21￿1537321338858
-Less￿stub:org.jetbrains.plugins.less.psi.LessFileElementType,29￿1537321338857
-Flow￿stub:com.intellij.lang.javascript.types.JSFileElementType,2024641187￿1537321338856
-CoffeeScript￿stub:com.intellij.lang.javascript.types.JSFileElementType,2024641187￿1537321338855
-JSX Harmony￿stub:com.intellij.lang.javascript.types.JSFileElementType,2024641187￿1537321338854
-Mako￿stub:com.jetbrains.mako.psi.impl.MakoFileElementType,304847168￿1537321338853
-ActionScript￿stub:com.intellij.lang.javascript.types.JSFileElementType,2024641187￿1537321338852
-SQL￿stub:com.intellij.sql.psi.stubs.SqlFileElementType,14￿1537321338851
-TypeScript JSX￿stub:com.intellij.lang.javascript.types.JSFileElementType,2024641187￿1537321338850
-Literate CoffeeScript￿stub:com.intellij.lang.javascript.types.JSFileElementType,2024641187￿1537321338849
-PythonStub￿stub:com.jetbrains.python.pyi.PyiFileElementType,69￿1537321338848
-Markdown￿stub:com.intellij.psi.tree.IStubFileElementType,0￿1537321338847
-TypeScript￿stub:com.intellij.lang.javascript.types.JSFileElementType,2024641187￿1537321338846
+1545963312095
+Python￿stub:com.jetbrains.python.psi.PyFileElementType,69￿1545963312094
+Angular2Html￿stub:com.intellij.psi.tree.IStubFileElementType,0￿1545963312093
+SCSS￿stub:org.jetbrains.plugins.scss.psi.SassScssFileElementType,29￿1545963312092
+ActionScript￿stub:com.intellij.lang.javascript.types.JSFileElementType,2078998559￿1545963312091
+Literate CoffeeScript￿stub:com.intellij.lang.javascript.types.JSFileElementType,2078998559￿1545963312090
+SQL￿stub:com.intellij.sql.psi.stubs.SqlFileElementType,16￿1545963312089
+Jinja2￿stub:com.intellij.psi.tree.IStubFileElementType,1120207681￿1545963312088
+HTML￿stub:com.intellij.psi.tree.IStubFileElementType,0￿1545963312087
+JSX Harmony￿stub:com.intellij.lang.javascript.types.JSFileElementType,2078998559￿1545963312086
+Mako￿stub:com.jetbrains.mako.psi.impl.MakoFileElementType,1120207750￿1545963312085
+Puppet￿stub:com.intellij.psi.tree.IStubFileElementType,0￿1545963312084
+Flow￿stub:com.intellij.lang.javascript.types.JSFileElementType,2078998559￿1545963312083
+TypeScript JSX￿stub:com.intellij.lang.javascript.types.JSFileElementType,2078998559￿1545963312082
+Angular Metadata JSON￿binary stub builder:org.angular2.lang.metadata.MetadataJsonStubBuilder,5￿1545963312081
+TypeScript￿stub:com.intellij.lang.javascript.types.JSFileElementType,2078998559￿1545963312080
+Properties￿stub:com.intellij.lang.properties.parsing.PropertiesElementTypes$1,0￿1545963312079
+CSS￿stub:com.intellij.psi.css.CssFileElementType,29￿1545963312078
+CoffeeScript￿stub:com.intellij.lang.javascript.types.JSFileElementType,2078998559￿1545963312077
+Ini￿stub:com.intellij.psi.tree.IStubFileElementType,0￿1545963312076
+Sass￿stub:org.jetbrains.plugins.scss.psi.SassScssFileElementType,29￿1545963312075
+XML￿binary stub builder:com.intellij.util.xml.stubs.builder.DomStubBuilder,21￿1545963312074
+Less￿stub:org.jetbrains.plugins.less.psi.LessFileElementType,29￿1545963312073
+JavaScript￿stub:com.intellij.lang.javascript.types.JSFileElementType,2078998559￿1545963312072
+Markdown￿stub:com.intellij.psi.tree.IStubFileElementType,0￿1545963312071
+PythonStub￿stub:com.jetbrains.python.pyi.PyiFileElementType,69￿1545963312070
+ECMAScript 6￿stub:com.intellij.lang.javascript.types.JSFileElementType,2078998559￿1545963312069
+Stylus￿stub:org.jetbrains.plugins.stylus.psi.StylusFileElementType,29￿1545963312068
+Cython￿stub:com.jetbrains.cython.psi.elementTypes.CythonFileElementType,69￿1545963312067

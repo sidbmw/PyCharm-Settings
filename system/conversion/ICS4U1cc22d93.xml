@@ -7,16 +7,18 @@
     <converter id="js-predefined-libraries-merged" />
   </applied-converters>
   <project-files>
-    <file path="C:\Users\siddh\Documents\ICS4U\.idea\ICS4U.iml" timestamp="1541269469576" />
-    <file path="C:\Users\siddh\Documents\ICS4U\.idea\dataSources.local.xml" timestamp="1541283945396" />
-    <file path="C:\Users\siddh\Documents\ICS4U\.idea\dataSources.xml" timestamp="1541283660188" />
-    <file path="C:\Users\siddh\Documents\ICS4U\.idea\dataSources\3d993b9c-d60a-4639-a010-e415678da336.xml" timestamp="1541731119230" />
-    <file path="C:\Users\siddh\Documents\ICS4U\.idea\dictionaries\siddharthnatamai.xml" timestamp="1541281598697" />
-    <file path="C:\Users\siddh\Documents\ICS4U\.idea\inspectionProfiles\Project_Default.xml" timestamp="1541635397668" />
-    <file path="C:\Users\siddh\Documents\ICS4U\.idea\misc.xml" timestamp="1541635397701" />
-    <file path="C:\Users\siddh\Documents\ICS4U\.idea\modules.xml" timestamp="1541269430264" />
-    <file path="C:\Users\siddh\Documents\ICS4U\.idea\sqldialects.xml" timestamp="1541640350362" />
-    <file path="C:\Users\siddh\Documents\ICS4U\.idea\workspace.xml" timestamp="1541803936165" />
+    <file path="C:\Users\siddh\Documents\ICS4U\.idea\ICS4U.iml" timestamp="1542203160561" />
+    <file path="C:\Users\siddh\Documents\ICS4U\.idea\codeStyles\codeStyleConfig.xml" timestamp="1543807969416" />
+    <file path="C:\Users\siddh\Documents\ICS4U\.idea\dataSources.local.xml" timestamp="1545404299904" />
+    <file path="C:\Users\siddh\Documents\ICS4U\.idea\dataSources.xml" timestamp="1542558696411" />
+    <file path="C:\Users\siddh\Documents\ICS4U\.idea\dataSources\18fc6c5e-85b2-4d50-bdce-bf62bbfb40f5.xml" timestamp="1545940266598" />
+    <file path="C:\Users\siddh\Documents\ICS4U\.idea\dictionaries\siddharthnatamai.xml" timestamp="1545494931837" />
+    <file path="C:\Users\siddh\Documents\ICS4U\.idea\encodings.xml" timestamp="1543240420700" />
+    <file path="C:\Users\siddh\Documents\ICS4U\.idea\inspectionProfiles\Project_Default.xml" timestamp="1545497283902" />
+    <file path="C:\Users\siddh\Documents\ICS4U\.idea\misc.xml" timestamp="1542203160602" />
+    <file path="C:\Users\siddh\Documents\ICS4U\.idea\modules.xml" timestamp="1542203160661" />
+    <file path="C:\Users\siddh\Documents\ICS4U\.idea\sqldialects.xml" timestamp="1542128597699" />
+    <file path="C:\Users\siddh\Documents\ICS4U\.idea\workspace.xml" timestamp="1545963346893" />
   </project-files>
 </conversion>
 

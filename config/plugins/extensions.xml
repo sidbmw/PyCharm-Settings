@@ -13,19 +13,6 @@
         </option>
       </plugins>
     </entry>
-    <entry key="*.Bayou">
-      <plugins>
-        <option name="myPlugins">
-          <set>
-            <plugin>
-              <option name="myPluginId" value="tanvd.bayou.plugin" />
-              <option name="myPluginName" />
-              <option name="myBundled" value="false" />
-            </plugin>
-          </set>
-        </option>
-      </plugins>
-    </entry>
     <entry key="*.R">
       <plugins>
         <option name="myPlugins">
@@ -541,32 +528,6 @@
           <set>
             <plugin>
               <option name="myPluginId" value="com.jedide.apex" />
-              <option name="myPluginName" />
-              <option name="myBundled" value="false" />
-            </plugin>
-          </set>
-        </option>
-      </plugins>
-    </entry>
-    <entry key="*.ccb">
-      <plugins>
-        <option name="myPlugins">
-          <set>
-            <plugin>
-              <option name="myPluginId" value="com.makeapp.cocos2dx" />
-              <option name="myPluginName" />
-              <option name="myBundled" value="false" />
-            </plugin>
-          </set>
-        </option>
-      </plugins>
-    </entry>
-    <entry key="*.ccbx">
-      <plugins>
-        <option name="myPlugins">
-          <set>
-            <plugin>
-              <option name="myPluginId" value="com.makeapp.cocos2dx" />
               <option name="myPluginName" />
               <option name="myBundled" value="false" />
             </plugin>
@@ -1185,6 +1146,19 @@
       </plugins>
     </entry>
     <entry key="*.dpr">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="com.siberika.idea.pascal" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
+    <entry key="*.dproj">
       <plugins>
         <option name="myPlugins">
           <set>
@@ -2187,19 +2161,6 @@
         </option>
       </plugins>
     </entry>
-    <entry key="*.impl">
-      <plugins>
-        <option name="myPlugins">
-          <set>
-            <plugin>
-              <option name="myPluginId" value="com.centurylink.mdw.studio" />
-              <option name="myPluginName" />
-              <option name="myBundled" value="false" />
-            </plugin>
-          </set>
-        </option>
-      </plugins>
-    </entry>
     <entry key="*.inc">
       <plugins>
         <option name="myPlugins">
@@ -2449,19 +2410,6 @@
         </option>
       </plugins>
     </entry>
-    <entry key="*.kpath">
-      <plugins>
-        <option name="myPlugins">
-          <set>
-            <plugin>
-              <option name="myPluginId" value="k-infinity" />
-              <option name="myPluginName" />
-              <option name="myBundled" value="false" />
-            </plugin>
-          </set>
-        </option>
-      </plugins>
-    </entry>
     <entry key="*.kubernetes">
       <plugins>
         <option name="myPlugins">
@@ -2688,6 +2636,19 @@
         </option>
       </plugins>
     </entry>
+    <entry key="*.lpi">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="com.siberika.idea.pascal" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
     <entry key="*.lpr">
       <plugins>
         <option name="myPlugins">
@@ -2868,6 +2829,19 @@
       </plugins>
     </entry>
     <entry key="*.ml4">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="reasonml" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
+    <entry key="*.mlg">
       <plugins>
         <option name="myPlugins">
           <set>
@@ -3350,19 +3324,6 @@
         </option>
       </plugins>
     </entry>
-    <entry key="*.pex">
-      <plugins>
-        <option name="myPlugins">
-          <set>
-            <plugin>
-              <option name="myPluginId" value="com.intellij.plugins.pants" />
-              <option name="myPluginName" />
-              <option name="myBundled" value="false" />
-            </plugin>
-          </set>
-        </option>
-      </plugins>
-    </entry>
     <entry key="*.ph">
       <plugins>
         <option name="myPlugins">
@@ -3634,19 +3595,6 @@
           <set>
             <plugin>
               <option name="myPluginId" value="com.ky-proj.spjplugin" />
-              <option name="myPluginName" />
-              <option name="myBundled" value="false" />
-            </plugin>
-          </set>
-        </option>
-      </plugins>
-    </entry>
-    <entry key="*.proc">
-      <plugins>
-        <option name="myPlugins">
-          <set>
-            <plugin>
-              <option name="myPluginId" value="com.centurylink.mdw.studio" />
               <option name="myPluginName" />
               <option name="myBundled" value="false" />
             </plugin>
@@ -4233,19 +4181,6 @@
         </option>
       </plugins>
     </entry>
-    <entry key="*.screen">
-      <plugins>
-        <option name="myPlugins">
-          <set>
-            <plugin>
-              <option name="myPluginId" value="com.hand.hec.aurora.ide.plugin.idea" />
-              <option name="myPluginName" />
-              <option name="myBundled" value="false" />
-            </plugin>
-          </set>
-        </option>
-      </plugins>
-    </entry>
     <entry key="*.secarc">
       <plugins>
         <option name="myPlugins">
@@ -4304,32 +4239,6 @@
           <set>
             <plugin>
               <option name="myPluginId" value="cz.ladicek.intellifrog" />
-              <option name="myPluginName" />
-              <option name="myBundled" value="false" />
-            </plugin>
-          </set>
-        </option>
-      </plugins>
-    </entry>
-    <entry key="*.sfa">
-      <plugins>
-        <option name="myPlugins">
-          <set>
-            <plugin>
-              <option name="myPluginId" value="google-sceneform-tools" />
-              <option name="myPluginName" />
-              <option name="myBundled" value="false" />
-            </plugin>
-          </set>
-        </option>
-      </plugins>
-    </entry>
-    <entry key="*.sfb">
-      <plugins>
-        <option name="myPlugins">
-          <set>
-            <plugin>
-              <option name="myPluginId" value="google-sceneform-tools" />
               <option name="myPluginName" />
               <option name="myBundled" value="false" />
             </plugin>
@@ -4490,32 +4399,6 @@
         </option>
       </plugins>
     </entry>
-    <entry key="*.spring">
-      <plugins>
-        <option name="myPlugins">
-          <set>
-            <plugin>
-              <option name="myPluginId" value="com.centurylink.mdw.studio" />
-              <option name="myPluginName" />
-              <option name="myBundled" value="false" />
-            </plugin>
-          </set>
-        </option>
-      </plugins>
-    </entry>
-    <entry key="*.sq">
-      <plugins>
-        <option name="myPlugins">
-          <set>
-            <plugin>
-              <option name="myPluginId" value="com.squareup.sqldelight" />
-              <option name="myPluginName" />
-              <option name="myBundled" value="false" />
-            </plugin>
-          </set>
-        </option>
-      </plugins>
-    </entry>
     <entry key="*.sql">
       <plugins>
         <option name="myPlugins">
@@ -4532,19 +4415,6 @@
             </plugin>
             <plugin>
               <option name="myPluginId" value="OdpsStudio" />
-              <option name="myPluginName" />
-              <option name="myBundled" value="false" />
-            </plugin>
-          </set>
-        </option>
-      </plugins>
-    </entry>
-    <entry key="*.sqm">
-      <plugins>
-        <option name="myPlugins">
-          <set>
-            <plugin>
-              <option name="myPluginId" value="com.squareup.sqldelight" />
               <option name="myPluginName" />
               <option name="myBundled" value="false" />
             </plugin>
@@ -4797,19 +4667,6 @@
           <set>
             <plugin>
               <option name="myPluginId" value="net.sjrx.intellij.plugins.systemdunitfiles" />
-              <option name="myPluginName" />
-              <option name="myBundled" value="false" />
-            </plugin>
-          </set>
-        </option>
-      </plugins>
-    </entry>
-    <entry key="*.task">
-      <plugins>
-        <option name="myPlugins">
-          <set>
-            <plugin>
-              <option name="myPluginId" value="com.centurylink.mdw.studio" />
               <option name="myPluginName" />
               <option name="myBundled" value="false" />
             </plugin>
@@ -5494,6 +5351,32 @@
         </option>
       </plugins>
     </entry>
+    <entry key="*.wxml">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="com.ytw88.weappsupport" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
+    <entry key="*.wxss">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="com.ytw88.weappsupport" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
     <entry key="*.xacro">
       <plugins>
         <option name="myPlugins">
@@ -5533,19 +5416,6 @@
               <option name="myPluginId" value="com.intellij.jsp" />
               <option name="myPluginName" value="Java Server Pages Integration" />
               <option name="myBundled" value="true" />
-            </plugin>
-          </set>
-        </option>
-      </plugins>
-    </entry>
-    <entry key="*.xlsx">
-      <plugins>
-        <option name="myPlugins">
-          <set>
-            <plugin>
-              <option name="myPluginId" value="com.centurylink.mdw.studio" />
-              <option name="myPluginName" />
-              <option name="myBundled" value="false" />
             </plugin>
           </set>
         </option>
@@ -5698,6 +5568,19 @@
         </option>
       </plugins>
     </entry>
+    <entry key="*.y">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="idea.goyacc" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
     <entry key="*.yaml">
       <plugins>
         <option name="myPlugins">
@@ -5818,6 +5701,19 @@
           <set>
             <plugin>
               <option name="myPluginId" value="Dart" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
+    <entry key=".asciidoctorconfig">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="org.asciidoctor.intellij.asciidoc" />
               <option name="myPluginName" />
               <option name="myBundled" value="false" />
             </plugin>
@@ -6160,19 +6056,6 @@
         </option>
       </plugins>
     </entry>
-    <entry key="createFileTypes">
-      <plugins>
-        <option name="myPlugins">
-          <set>
-            <plugin>
-              <option name="myPluginId" value="com.makeapp.cocos2dx" />
-              <option name="myPluginName" />
-              <option name="myBundled" value="false" />
-            </plugin>
-          </set>
-        </option>
-      </plugins>
-    </entry>
     <entry key="cucumber">
       <plugins>
         <option name="myPlugins">
@@ -6322,6 +6205,19 @@
           <set>
             <plugin>
               <option name="myPluginId" value="JSTestDriver Plugin" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
+    <entry key="lombok.config">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="Lombook Plugin" />
               <option name="myPluginName" />
               <option name="myBundled" value="false" />
             </plugin>

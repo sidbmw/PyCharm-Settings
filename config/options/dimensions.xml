@@ -19,6 +19,7 @@
     <location key="ExecutionTargetDialog.0.0.1920.1080" x="758" y="145" />
     <location key="#Inspections.0.0.1920.1080" x="592" y="201" />
     <location key="StructurePopup.0.0.1920.1080" x="663" y="202" />
+    <location key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog.0.0.1920.1080" x="640" y="259" />
     <size key="GitCloneDialog.0.0.1920.1080" width="564" height="243" />
     <size key="ProcessPopupWindow.0.0.1920.1080" width="400" height="180" />
     <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1876" height="277" />

@@ -1,2 +1,0 @@
-checkio.pycharm.plugin
-com.jetbrains.edu
